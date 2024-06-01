@@ -230,7 +230,6 @@ h1 {
 .gallery {
     overflow: hidden;
     width: 100%;
-    max-width: 1300px;
     height: 250px;
 }
 
@@ -280,11 +279,10 @@ h1 {
 }
 
 .content {
-    width: 75%;
+    width: 78%;
 }
 
 .card {
-
     width: 330px;
     border-radius: 20px;
     overflow: hidden;
